@@ -1,0 +1,25 @@
+{
+  "display": {
+    "icon": {
+      "item": "cabalstoolbox:example_item"
+    },
+    "title": "The Cabal's Toolbox",
+    "description": "What lies within?",
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false,
+    "background": "cabalstoolbox:textures/block/yellowbricks_block.png"
+  },
+  "criteria": {
+    "0": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {}
+    }
+  },
+  "requirements": [
+    [
+      "0"
+    ]
+  ]
+}

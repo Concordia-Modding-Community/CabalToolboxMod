@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "minecraft:wool"
+        },
+        {
+            "item": "minecraft:iron_nugget"
+        },
+        {
+        	"item": "minecraft:white_concrete"
+        }
+    ],
+    
+    "result": {
+    	"item": "cabalstoolbox:concretepanel_block",
+    	"count": 4 
+    }
+}

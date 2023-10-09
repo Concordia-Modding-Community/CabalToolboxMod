@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "cabalstoolbox:red_inflatable"
+    },
+    "title": "Float On",
+    "description": "Combine an oil bucket with some dye to make an Inflatable",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "cabalstoolbox:oil_bucket",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cabalstoolbox:white_inflatable",
+              "cabalstoolbox:red_inflatable",
+              "cabalstoolbox:blue_inflatable",
+              "cabalstoolbox:lime_inflatable",
+              "cabalstoolbox:orange_inflatable",
+              "cabalstoolbox:cyan_inflatable",
+              "cabalstoolbox:pink_inflatable",
+              "cabalstoolbox:purple_inflatable",
+              "cabalstoolbox:yellow_inflatable"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

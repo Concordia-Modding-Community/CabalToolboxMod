@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "cabalstoolbox:block/yellowbricks_block",
+    "top": "cabalstoolbox:block/yellowbricks_block",
+    "side": "cabalstoolbox:block/yellowbricks_block"
+  }
+}

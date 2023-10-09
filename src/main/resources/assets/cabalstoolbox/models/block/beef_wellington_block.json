@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "cabalstoolbox:block/beef_wellington_block_front",
+    "side": "cabalstoolbox:block/beef_wellington_block_side"
+  }
+}

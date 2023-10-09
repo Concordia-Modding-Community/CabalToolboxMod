@@ -1,0 +1,31 @@
+{
+	"replace": false, 
+	"values": [
+		"cabalstoolbox:yellowbricks_block",
+		"cabalstoolbox:yellowbrickslightgrout_block",
+		"cabalstoolbox:yellowbricksvariant_block",
+		"cabalstoolbox:yellowbrickslightgroutvariant_block",
+		"cabalstoolbox:yellowbrickslightgrouttop_block",
+		"cabalstoolbox:yellowbrickslightgroutright_block",
+		"cabalstoolbox:concretepanel_block",
+		"cabalstoolbox:concretepaneltopright_block",
+		"cabalstoolbox:concretepanelbottomright_block",
+		"cabalstoolbox:concretepanelbottomleft_block",
+		"cabalstoolbox:white_duroplast",
+		"cabalstoolbox:red_duroplast",
+		"cabalstoolbox:blue_duroplast",
+		"cabalstoolbox:cyan_duroplast",
+		"cabalstoolbox:lime_duroplast",
+		"cabalstoolbox:orange_duroplast",
+		"cabalstoolbox:pink_duroplast",
+		"cabalstoolbox:purple_duroplast",
+		"cabalstoolbox:yellow_duroplast",
+		"cabalstoolbox:yellowbrick_stairs",
+		"cabalstoolbox:phone_booth_lower",
+		"cabalstoolbox:phone_booth_upper",
+		"cabalstoolbox:blue_phone_booth_lower",
+		"cabalstoolbox:blue_phone_booth_upper",
+		"cabalstoolbox:sandstone_arch",
+		"cabalstoolbox:sandstone_arch_single"
+	]
+}

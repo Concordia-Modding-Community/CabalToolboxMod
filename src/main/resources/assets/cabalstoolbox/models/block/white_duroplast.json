@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cabalstoolbox:block/white_duroplast",
+    "up": "cabalstoolbox:block/white_duroplast",
+    "north": "cabalstoolbox:block/white_duroplast",
+    "east": "cabalstoolbox:block/white_duroplast",
+    "south": "cabalstoolbox:block/white_duroplast",
+    "west": "cabalstoolbox:block/white_duroplast",
+    "particle": "cabalstoolbox:block/white_duroplast"
+  }
+}

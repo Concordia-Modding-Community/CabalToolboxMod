@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "cabalstoolbox:butter"
+    },
+    "title": "I Can't Believe It!",
+    "description": "Make butter by churning milk",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "cabalstoolbox:churn_dash",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cabalstoolbox:butter"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

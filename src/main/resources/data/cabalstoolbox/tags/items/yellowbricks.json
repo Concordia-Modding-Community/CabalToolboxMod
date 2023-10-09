@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "cabalstoolbox:yellowbricks_block",
+    "cabalstoolbox:yellowbricksvariant_block",
+    "cabalstoolbox:yellowbrickslightgrout_block",
+    "cabalstoolbox:yellowbrickslightgroutvariant_block",
+    "cabalstoolbox:yellowbrickslightgrouttop_block",
+    "cabalstoolbox:yellowbrickslightgroutright_block"
+  ]
+}

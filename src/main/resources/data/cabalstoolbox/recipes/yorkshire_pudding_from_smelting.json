@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "cabalstoolbox:yorkshire_pudding_batter"
+    },
+    "result": "cabalstoolbox:yorkshire_pudding",
+    "experience": 0.2,
+    "cookingtime": 125
+}

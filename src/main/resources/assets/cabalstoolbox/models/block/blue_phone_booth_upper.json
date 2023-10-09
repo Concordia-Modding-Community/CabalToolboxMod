@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cabalstoolbox:block/blue_phone_booth_bottom",
+    "up": "cabalstoolbox:block/blue_phone_booth_top",
+    "north": "cabalstoolbox:block/blue_phone_booth_upper",
+    "east": "cabalstoolbox:block/blue_phone_booth_upper",
+    "south": "cabalstoolbox:block/blue_phone_booth_upper",
+    "west": "cabalstoolbox:block/blue_phone_booth_upper",
+    "particle": "cabalstoolbox:block/blue_phone_booth_bottom"
+  }
+}

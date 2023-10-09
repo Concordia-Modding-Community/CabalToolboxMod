@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "cabalstoolbox:concretepanelbottomleft_block"
+        }
+    ],
+    
+    "result": {
+    	"item": "cabalstoolbox:concretepanel_block",
+    	"count": 1 
+    }
+}

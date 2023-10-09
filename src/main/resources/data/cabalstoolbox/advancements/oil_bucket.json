@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "cabalstoolbox:oil_bucket"
+    },
+    "title": "Crude",
+    "description": "Combine a bone with a bucket and a clock to age it a few million years",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "cabalstoolbox:root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cabalstoolbox:oil_bucket"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+modLoader="javafml" #mandatory
+loaderVersion="[40,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
+license="CC BY 4.0"
+[[mods]]
+modId="cabalstoolbox"
+version="1.1.1"
+displayName="The Cabal's Toolbox"
+logoFile="logo.png"
+credits="A mod by the Minecraft Student Cabal. Created by robot3humans0, GinaHara, and WonderAnchor. Original duroplast texture by BluSunrize."
+authors="The Student Cabal" #optional
+description='''
+
+A general purpose mod used to implement specific blocks and items for projects by the Concordia University Student Research Cabal.
+
+This mod will be updated over time to add new blocks as we need them which are not found elsewhere.
+
+Thank you :)
+
+'''
+[[dependencies.cabalstoolbox]]
+    modId="forge"
+    mandatory=true
+    versionRange="[40,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.cabalstoolbox]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2,1.19)"
+    ordering="NONE"
+    side="BOTH"

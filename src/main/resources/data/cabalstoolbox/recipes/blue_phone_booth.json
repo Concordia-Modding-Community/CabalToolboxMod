@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "#S#",
+        "#D#"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:lapis_block"
+        },
+        "C": {
+            "item": "minecraft:clock"
+        },
+        "S": {
+            "item": "cabalstoolbox:phone_booth_lower"
+        },
+        "D": {
+            "item": "minecraft:diamond"
+        }
+    },
+    "result": {
+        "item": "cabalstoolbox:blue_phone_booth_lower",
+        "count": 1
+    }
+}

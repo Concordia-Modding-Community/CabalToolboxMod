@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cabalstoolbox:block/beef_wellington_block_side",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cabalstoolbox:block/beef_wellington_block_side"
+    },
+    "axis=z": {
+      "model": "cabalstoolbox:block/beef_wellington_block_side",
+      "x": 90
+    }
+  }
+}

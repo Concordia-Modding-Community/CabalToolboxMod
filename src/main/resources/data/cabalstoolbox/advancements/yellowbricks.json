@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "item": "cabalstoolbox:yellowbricks_block"
+    },
+    "title": "Hello Yellow Brick Road",
+    "description": "Combine bricks and yellow dye to make yellow bricks",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "cabalstoolbox:root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cabalstoolbox:yellowbricks_block"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cabalstoolbox:block/sandstone_arch"
+    },
+    "facing=east": {
+      "model": "cabalstoolbox:block/sandstone_arch",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cabalstoolbox:block/sandstone_arch",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cabalstoolbox:block/sandstone_arch",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "cabalstoolbox:beef_wellington_block"
+        }   
+    ],
+    "result": {
+        "item": "cabalstoolbox:beef_wellington",
+        "count": 9
+    }
+}

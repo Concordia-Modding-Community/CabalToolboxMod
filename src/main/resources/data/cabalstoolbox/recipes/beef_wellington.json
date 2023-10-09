@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:brown_mushroom"
+        },
+        {
+            "item": "minecraft:cooked_beef"
+        },
+         {
+            "item": "minecraft:bread"
+        }
+        
+    ],
+    "result": {
+        "item": "cabalstoolbox:beef_wellington",
+        "count": 1
+    }
+}

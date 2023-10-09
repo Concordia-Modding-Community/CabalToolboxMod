@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:bone"
+        },
+        {
+            "item": "minecraft:bucket"
+        },
+        {
+            "item": "minecraft:clock"
+        }
+    ],
+    "result": {
+        "item": "cabalstoolbox:oil_bucket",
+        "count": 1
+    }
+}

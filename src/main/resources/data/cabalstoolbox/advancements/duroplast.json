@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "cabalstoolbox:blue_duroplast"
+    },
+    "title": "Remember to Recycle",
+    "description": "Combine an oil bucket with some wool to make Duroplast",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "cabalstoolbox:oil_bucket",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cabalstoolbox:white_duroplast",
+              "cabalstoolbox:red_duroplast",
+              "cabalstoolbox:blue_duroplast",
+              "cabalstoolbox:lime_duroplast",
+              "cabalstoolbox:orange_duroplast",
+              "cabalstoolbox:cyan_duroplast",
+              "cabalstoolbox:pink_duroplast",
+              "cabalstoolbox:purple_duroplast",
+              "cabalstoolbox:yellow_duroplast"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

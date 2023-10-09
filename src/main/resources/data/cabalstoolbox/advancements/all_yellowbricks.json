@@ -1,0 +1,51 @@
+{
+  "parent": "cabalstoolbox:yellowbricks",
+  "display": {
+    "icon": {
+      "item": "cabalstoolbox:yellowbricks_block"
+    },
+    "title": "And It Was All Yellow",
+    "description": "Use the stonecutter to make every variation of yellow bricks",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  }, 
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cabalstoolbox:yellowbricksvariant_block"
+            ]
+          },
+          {
+            "items": [
+              "cabalstoolbox:yellowbrickslightgrout_block"
+            ]
+          },
+          {
+            "items": [
+              "cabalstoolbox:yellowbrickslightgroutvariant_block"
+            ]
+          },
+          {
+            "items": [
+              "cabalstoolbox:yellowbrickslightgrouttop_block"
+            ]
+          },
+          {
+            "items": [
+              "cabalstoolbox:yellowbrickslightgroutright_block"
+            ]
+          }
+        ]
+      }
+    }
+  },
+    "rewards": {
+    "experience": 20
+  }
+}

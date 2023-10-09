@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "tag": "cabalstoolbox:yellowbricks"
+  },
+  "result": "cabalstoolbox:yellowbrickslightgrout_block",
+  "count": 1
+}

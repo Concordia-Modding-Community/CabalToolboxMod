@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cabalstoolbox:block/pink_inflatable",
+    "particle": "cabalstoolbox:block/pink_inflatable"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cabalstoolbox:block/sandstone_arch",
+    "up": "cabalstoolbox:block/sandstone_arch_right",
+    "north": "cabalstoolbox:block/sandstone_arch",
+    "east": "cabalstoolbox:block/sandstone_arch_right",
+    "south": "cabalstoolbox:block/sandstone_arch_right",
+    "west": "cabalstoolbox:block/sandstone_arch",
+    "particle": "cabalstoolbox:block/sandstone_arch"
+  }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:egg"
+        },
+        {
+            "item": "minecraft:wheat"
+        },
+        {
+            "item": "cabalstoolbox:butter"
+        },
+        {
+            "item": "minecraft:milk_bucket"
+        }
+    ],
+     "result": {
+    	"item": "cabalstoolbox:yorkshire_pudding_batter",
+    	"count": 6
+    }
+}
